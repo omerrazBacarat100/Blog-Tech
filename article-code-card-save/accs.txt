@@ -1,0 +1,24 @@
+
+            <div class="blog">
+                <div class="blog-top">
+                    <img src="./img/code-g8563d037b_1280.jpg" alt="">
+                    <span class="blog-category">Development</span>
+                </div>
+                <div class="blog-about">
+                    <span>OMER RAZ</span>
+                    <span>March 26, 2022</span>
+                </div>
+                <a href="./articles/htsc.html">
+                    <h4>How To start Coding - Full Article</h4>
+                </a>
+                <p class="blog-text">learn how to choose the best ide, my favorite ide and what is actually ide.
+                    <br>
+                    you will learn too how to choose your programming language and what's the usefull ide,
+                    <br>
+                    and for final i will start tutorials with articles in this website!
+                    <br>
+                    so click here for read more information!</p>
+                    <a href="./articles/htsc.html" class="read-more">Read More</a>
+            </div>
+        </div>
+    </div>
